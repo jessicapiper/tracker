@@ -1,7 +1,7 @@
 .inline-chart {
-    width: 31%;
+    width: 50%;
     display: inline-block;
-    min-width: 275px;
+    min-width: 400px;
     min-height: 275px;
     align-content: center;
     justify-content: center;
@@ -35,13 +35,22 @@
 }
 
 .chart-title {
+  font-family: Helvetica, Arial, sans-serif;
+  margin-left: 10px;
   font-weight: bold;
-  font-size: 18px;
-  text-align: center;
+  font-size: 20px;
+  text-align: left;
+}
+
+.chart-subtitle {
+  font-family: Helvetica, Arial, sans-serif;
+  margin-left: 10px;
+  font-size: 14px;
+  text-align: left;
 }
 
 .highlight {
-  fill: #D9D7BC;
+  fill: #3d3d3d;
 }
 
 .chart-tooltip {
