@@ -5,8 +5,7 @@ Generated on 2020-06-26 using
 
 ## Description
 
-This is an example readme file.
-Describe your site/app here.
+This graphic visualizes Maine campaign finance data.
 
 ## Technologies used
 
