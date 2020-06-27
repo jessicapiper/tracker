@@ -5,15 +5,15 @@ var margin = {top: 35, right:20, bottom:120, left:40};
 
 var container = d3.select('#senate')
 var containerWidth = container.node().offsetWidth;
-var containerHeight = containerWidth*0.66;
+var containerHeight = 450;
 
 var chartWidth = containerWidth - margin.right - margin.left;
 var chartHeight = containerHeight - margin.top - margin.bottom;
 
 var svg = container.append('svg')
-            .attr("viewBox",'0 0 600 400')
-            //.attr("width",containerWidth)
-            //.attr("height",containerHeight)
+            //.attr("viewBox",'0 0 600 400')
+            .attr("width",containerWidth)
+            .attr("height",containerHeight)
             .append('g')
             .attr('transform', `translate(${margin.left}, ${margin.top})`)
 
