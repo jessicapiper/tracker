@@ -1,0 +1,58 @@
+[
+  {
+    "candidate": "reporting_period",
+    "Jared Golden": "YE",
+    "Eric Brakey": "YE",
+    "Dale Crafts": "YE",
+    "Adrienne Bennett": "YE"
+  },
+  {
+    "candidate": "total_net_contributions",
+    "Jared Golden": 1627485.5,
+    "Eric Brakey": 508551.5,
+    "Dale Crafts": 127798.2,
+    "Adrienne Bennett": 48025.11
+  },
+  {
+    "candidate": "total_spending",
+    "Jared Golden": 470545.2,
+    "Eric Brakey": 256970.5,
+    "Dale Crafts": 41239.59,
+    "Adrienne Bennett": 10477.38
+  },
+  {
+    "candidate": "cash_on_hand",
+    "Jared Golden": 1289494.93,
+    "Eric Brakey": 251581,
+    "Dale Crafts": 133558.6,
+    "Adrienne Bennett": 37447.73
+  },
+  {
+    "candidate": "percent_from_small_donors",
+    "Jared Golden": 0.218051838107038,
+    "Eric Brakey": 0.0866767869134198,
+    "Dale Crafts": 0.0276999206561595,
+    "Adrienne Bennett": 0.305810231356055
+  },
+  {
+    "candidate": "percent_from_large_donors",
+    "Jared Golden": 0.597432003272023,
+    "Eric Brakey": 0.893266267034902,
+    "Dale Crafts": 0.925351061282553,
+    "Adrienne Bennett": 0.574423046610409
+  },
+  {
+    "candidate": "percent_from_PACs",
+    "Jared Golden": 0.122906213535589,
+    "Eric Brakey": 0.02005696571537,
+    "Dale Crafts": 0.0469490180612872,
+    "Adrienne Bennett": 0.0182196355198354
+  },
+  {
+    "candidate": "party",
+    "Jared Golden": "D",
+    "Eric Brakey": "R",
+    "Dale Crafts": "R",
+    "Adrienne Bennett": "R"
+  }
+]

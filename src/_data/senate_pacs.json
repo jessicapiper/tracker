@@ -1,0 +1,26 @@
+[
+  {
+    "type": "Susan Collins",
+    "business": 1727850,
+    "ideological": 110489.05,
+    "labor": 53000,
+    "leadership": 399900,
+    "other": 15500
+  },
+  {
+    "type": "Sara Gideon",
+    "business": 0,
+    "ideological": 60047.5,
+    "labor": 22500,
+    "leadership": 85100,
+    "other": 750
+  },
+  {
+    "type": "Betsy Sweet",
+    "business": 0,
+    "ideological": 1000,
+    "labor": 0,
+    "leadership": 2287.53,
+    "other": 0
+  }
+]
