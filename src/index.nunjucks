@@ -12,3 +12,12 @@
 </div>
 
 {% endblock %}
+
+
+{% block scripts %}
+
+<script>
+var senate_topline = {% include '_data/senate_topline.json' %};
+</script>
+
+{% endblock %}
