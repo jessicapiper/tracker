@@ -5,7 +5,7 @@
 {% block content %}
 
 <div class="charts">
-  <div class="chart-title">Total raised this cycle</div>
+  <div class="chart-title">Total spent this cycle</div>
   <div class="chart-subtitle">Data through June 25.</div>
   <div class="inline-chart" id="senate"></div>
   <div class="chart-footer">Source: Federal Election Commission • Chart by Jessica Piper for the Bangor Daily News</div>
