@@ -5,7 +5,7 @@ var margin = {top: 35, right:20, bottom:100, left:40};
 
 var container = d3.select('#senate')
 var containerWidth = container.node().offsetWidth;
-var containerHeight = 500;
+var containerHeight = 400;
 
 var chartWidth = containerWidth - margin.right - margin.left;
 var chartHeight = containerHeight - margin.top - margin.bottom;
