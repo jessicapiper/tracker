@@ -11,9 +11,9 @@ var chartWidth = containerWidth - margin.right - margin.left;
 var chartHeight = containerHeight - margin.top - margin.bottom;
 
 var svg = container.append('svg')
-            //.attr("viewBox",'0 0 600 400')
-            .attr("width",containerWidth)
-            .attr("height",containerHeight)
+            .attr("viewBox",'0 0 600 400')
+            //.attr("width",containerWidth)
+            //.attr("height",containerHeight)
             .append('g')
             .attr('transform', `translate(${margin.left}, ${margin.top})`)
 
