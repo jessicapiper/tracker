@@ -1,13 +1,17 @@
 .inline-chart {
-    width: 100%;
+    width: 80%;
     display: inline-block;
-    min-width: 400px;
-    min-height: 400px;
+    min-width: 320px;
+    min-height: 320px;
+    max-width: 600;
+    max-height: 400;
     align-content: center;
     justify-content: center;
     margin-left: 10px;
     margin-right: 10px;
     background-color: white;
+    vertical-align: top;
+    overflow: hidden;
 }
 
 .long-chart{
@@ -38,25 +42,35 @@
   font-family: Helvetica, Arial, sans-serif;
   margin-left: 10px;
   font-weight: bold;
-  font-size: 20px;
+  font-size: 22px;
   text-align: left;
 }
 
 .chart-subtitle {
   font-family: Helvetica, Arial, sans-serif;
   margin-left: 10px;
-  font-size: 16px;
+  margin-top: 2px;
+  font-size: 18px;
   text-align: left;
 }
 
 .highlight {
-  fill: #3d3d3d;
+  fill: #a3a3a3;
 }
 
 .chart-tooltip {
   font-family: Helvetica, Arial, sans-serif;
   font-size: 14px;
   text-anchor: middle;
+}
+
+.chart-footer {
+  font-family: Helvetica, Arial, sans-serif;
+  font-style: italic;
+  color: #707070;
+  font-size: 16px;
+  text-align: left;
+  margin-left: 10px;
 }
 
 .paragraph-text{
