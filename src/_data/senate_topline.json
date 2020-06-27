@@ -1,0 +1,68 @@
+[
+  {
+    "candidate": "Susan Collins",
+    "reporting_period": "YE",
+    "total_net_contributions": 10756693,
+    "total_spending": 5053304,
+    "cash_on_hand": 7195341.74,
+    "percent_from_small_donors": 0.104422766692941,
+    "percent_from_large_donors": 0.660413475665305,
+    "percent_from_PACs": 0.231147985386795,
+    "party": "R"
+  },
+  {
+    "candidate": "Sara Gideon",
+    "reporting_period": "YE",
+    "total_net_contributions": 7675361.6,
+    "total_spending": 4897064,
+    "cash_on_hand": 2777850,
+    "percent_from_small_donors": 0.417894047451678,
+    "percent_from_large_donors": 0.559385185241154,
+    "percent_from_PACs": 0.0233884344799801,
+    "party": "D"
+  },
+  {
+    "candidate": "Ross LaJeunesse",
+    "reporting_period": "YE",
+    "total_net_contributions": 349205.9,
+    "total_spending": 223442.1,
+    "cash_on_hand": 375763.77,
+    "percent_from_small_donors": 0.0591940170541219,
+    "percent_from_large_donors": 0.608623737456899,
+    "percent_from_PACs": 0,
+    "party": "D"
+  },
+  {
+    "candidate": "Betsy Sweet",
+    "reporting_period": "YE",
+    "total_net_contributions": 271813.6,
+    "total_spending": 216554.1,
+    "cash_on_hand": 55322.9,
+    "percent_from_small_donors": 0.548426200896497,
+    "percent_from_large_donors": 0.438743315271936,
+    "percent_from_PACs": 0.0120947958453882,
+    "party": "D"
+  },
+  {
+    "candidate": "Lisa Savage",
+    "reporting_period": "YE",
+    "total_net_contributions": 1124535.31,
+    "total_spending": 13499.6,
+    "cash_on_hand": 11035.71,
+    "percent_from_small_donors": 0.466340551637619,
+    "percent_from_large_donors": 0.479092785051422,
+    "percent_from_PACs": 0,
+    "party": "G"
+  },
+  {
+    "candidate": "Bre Kidman",
+    "reporting_period": "YE",
+    "total_net_contributions": 16207.63,
+    "total_spending": 9701.37,
+    "cash_on_hand": 6506.26,
+    "percent_from_small_donors": 0.184797530545799,
+    "percent_from_large_donors": 0.606047892258153,
+    "percent_from_PACs": 0,
+    "party": "D"
+  }
+]
