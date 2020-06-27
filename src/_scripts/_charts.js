@@ -1,11 +1,11 @@
 import * as d3 from "d3";
 import senate_topline from "../_data/senate_topline";
 
-var margin = {top: 35, right:20, bottom:120, left:40};
+var margin = {top: 35, right:20, bottom:80, left:40};
 
 var container = d3.select('#senate')
 var containerWidth = container.node().offsetWidth;
-var containerHeight = 450;
+var containerHeight = 600;
 
 var chartWidth = containerWidth - margin.right - margin.left;
 var chartHeight = containerHeight - margin.top - margin.bottom;
